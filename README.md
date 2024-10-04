@@ -7,7 +7,7 @@ This project contains automated tests for the **Buffalo Burger** website. The te
 Make sure you have the following installed:
 
 - Node.js (version 14 or higher)
-- Cypress
+- Cypress (I used version 13.15.0)
 
 ## Test Scenarios
 Here’s what the tests do:
